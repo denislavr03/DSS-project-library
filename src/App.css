@@ -1,0 +1,18 @@
+ul{
+    list-style-type: none;
+}
+
+.cListTitle{
+    text-align: center;
+    padding-bottom: 20px;
+
+}
+
+.cDetailsTitle{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.deleteButton{
+    padding-bottom: 30px;
+}
